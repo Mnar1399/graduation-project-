@@ -1,0 +1,4 @@
+data/videos/*
+data/raw/*
+*.mp4
+*.avi
